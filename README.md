@@ -1,2 +1,2 @@
 # Discord-Channel-Mirror
-You can mirror any discord server channel to another server channel
+You can mirror any discord server channel to another server channe
