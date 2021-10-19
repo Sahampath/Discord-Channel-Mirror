@@ -6,11 +6,11 @@ const gateway = new selfcore.Gateway(
 );
 
 gateway.on("message", (m) => {
-  if (m.channel_id === "452500568712413184") {
+  if (m.channel_id === "Channel ID") {
     let content = m.content ? m.content : { embeds: [m.embeds[0]] };
 
     client.sendWebhook(
-      "https://discord.com/api/webhooks/899778542546616380/u_Amq6ACqSqKBZrcvhfCwg-m1X5UXN4oYIrclrTJvKGpTYJl1AvVfDpwZMyLeQNu7g3m",
+      "Webhook Link",
       content
     );
   }
