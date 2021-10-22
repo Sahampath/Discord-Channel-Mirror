@@ -2,7 +2,7 @@ import selfcore from "selfcore";
 
 const client = new selfcore();
 const gateway = new selfcore.Gateway(
-  "mfa.gVGWI6NNqUQBB6YxsB2Qig9fQnJdl-vL-Lrszs8qVX1soFbGfdX-7sdMdxDorxM4iIhtzUM-4IHCgGHWkNto"
+  "your authorization code"
 );
 
 gateway.on("message", (m) => {
