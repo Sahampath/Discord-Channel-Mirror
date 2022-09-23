@@ -13,7 +13,7 @@ import selfcore from "selfcore";
 
 const client = new selfcore();
 const gateway = new selfcore.Gateway(
-  "OTQyMDczMjA4MTkzMDI0MDAx.GFlfDg.nHdTf5AKSvnnPd-D3mdatnaqig6diyJ77KtEjk"
+  "Your Autho code "
 );
 
 gateway.on("message", (m) => {
