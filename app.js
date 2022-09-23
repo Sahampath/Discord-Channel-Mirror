@@ -3,7 +3,7 @@ import express from "express"
 const app = express();
 
 app.get("/", (req,res) => {
-  res.send("Bot is Online");
+  res.send("🟢Online Bot is working ✔️");
 });
 
 app.listen(5000, () => console.log("lisrening to port 5000"));
