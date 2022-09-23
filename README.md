@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/github/stars/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/github/forks/Sahampath/Discord-Channel-Mirror?style=for-the-badge&logo=appveyor"> </h4>
 
-<h4 align="center"> You can mirror any Discord Server's channel to Your Server Channel without admin Permission. </h4>
+
+<h5 align="center"> You can mirror any Discord Server's channel to Your Server Channel without admin Permission. </h5>
 
 **You only need :**
 1. Your Typing authorization code  
@@ -20,9 +21,9 @@
 
 Run the script using "`node app.js`"
 
-  
-![](images/image1.JPG)
-![](images/image2.JPG)
+### Run on Replit
+[![Run on Repl.it](https://repl.it/badge/github/Sahampath/Discord-Channel-Mirror)](https://replit.com/@Sahampath/Discord-Channel-Mirror)
+#
 
 ## ⚠️ Important ⚠️
 This bot repeat your any text messages including links & Emojis. **But bot can't repeat anything upload** Like Images, Videos, Document.
@@ -32,13 +33,17 @@ This bot repeat your any text messages including links & Emojis. **But bot can't
 
 
 #
-### 🗄️ Databases
+### 🗄️ Databases 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-[![Run on Repl.it](https://repl.it/badge/github/Sahampath/Discord-Channel-Mirror)](https://replit.com/@Sahampath/Discord-Channel-Mirror)
+<a href="#"><img alt="replit" src="https://images2.imgbox.com/33/53/jSBYmvfU_o.png"></a>
 #
 ### 💻 Software and tools
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Discord" src="https://discordapp.com/api/guilds/297732013006389252/widget.png"></a>
+<a href="#"><img alt="Discord" src="https://images2.imgbox.com/6e/00/H8i3LVmq_o.png"></a>
+#
+### Samples
+![](images/image1.JPG)
+![](images/image2.JPG)
 #
 ## Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
