@@ -26,6 +26,7 @@ This bot repeat your any text messages including links & Emojis. **But bot can't
 #
 ### 🗄️ Databases
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+[![Run on Repl.it](https://repl.it/badge/github/Sahampath/Discord-Channel-Mirror)](https://replit.com/@Sahampath/Discord-Channel-Mirror)
 #
 ### 💻 Software and tools
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
