@@ -13,7 +13,7 @@ import selfcore from "selfcore";
 
 const client = new selfcore();
 const gateway = new selfcore.Gateway(
-  "Your Autho code "
+  "Typing Authorization code"
 );
 
 gateway.on("message", (m) => {
