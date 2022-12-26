@@ -1,3 +1,5 @@
+**Repository Views** ![Views](https://profile-counter.glitch.me/IpHack/count.svg)
+
 <h1 align="center"> Discord Channel Mirror Bot </h1>
 
 <h2 align="center">
@@ -13,8 +15,6 @@
 
 
 <h5 align="center"> You can mirror any Discord Server's channel to Your Server Channel without admin Permission. </h5>
-
-**Repository Views** ![Views](https://profile-counter.glitch.me/IpHack/count.svg)
 
 **You only need :**
 1. Your Typing authorization code  
