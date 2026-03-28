@@ -1,5 +1,3 @@
-**Repository Views** ![Views](https://profile-counter.glitch.me/Sahampath/count.svg)
-
 <h1 align="center"> Discord Channel Mirror Bot </h1>
 
 <h2 align="center">
