@@ -52,4 +52,4 @@ This bot repeat your any text messages including links & Emojis. **But bot can't
 ### Sometimes user account can be banned for unknown authorization. ( Remember BOT use your typing authorization to Type himself )
 ##
 <h2 align="center">Visitors Counts 👀</h2>
-<a href="https://github.com/Sahampath/Discord-Channel-Mirror"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSnA?theme=rule34" /></a>
+<a href="https://github.com/Sahampath/Discord-Channel-Mirror"><img alt="Cute Count" src="https://count.getloli.com/get/@Sahampath?theme=rule34" /></a>
