@@ -50,11 +50,6 @@ This bot repeat your any text messages including links & Emojis. **But bot can't
 #
 ## 🔴 Warning 🔴
 ### Sometimes user account can be banned for unknown authorization. ( Remember BOT use your typing authorization to Type himself )
-#
-## Streak stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/Sahampath/github-readme-streak-stats">
-    <img title=" " alt="Sahampath" src="https://github-readme-streak-stats.herokuapp.com?user=Sahampath&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+##
+<h2 align="center">Visitors Counts 👀</h2>
+<a href="https://github.com/Sahampath/Discord-Channel-Mirror"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSnA?theme=rule34" /></a>
