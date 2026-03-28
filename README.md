@@ -45,7 +45,6 @@ This bot repeat your any text messages including links & Emojis. **But bot can't
 ![](images/image1.JPG)
 ![](images/image2.JPG)
 #
-#
 ## 🔴 Warning 🔴
 ### Sometimes user account can be banned for unknown authorization. ( Remember BOT use your typing authorization to Type himself )
 ##
